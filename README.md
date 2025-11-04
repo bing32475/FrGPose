@@ -39,14 +39,9 @@ Integrates MLGFN and GSPAM seamlessly for joint optimization of texture fidelity
 ## 🎨 Visual Results
 
 <p align="center">
-  <img src="FrGPose/demo.gif" alt="FreqPose Demo">
+  <img src="FrGPose/demo.gif"  alt="FreqPose Demo">
   <br>
   <em>FreqPose generates realistic and detail-preserving results even under complex pose transformations.</em>
 </p>
 
-<p align="center">
-  <img src="docs/visual_comparison.png" >
-  <br>
-  <em>Comparison with state-of-the-art approaches on the DeepFashion dataset.</em>
-</p>
 
