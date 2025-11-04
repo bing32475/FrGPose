@@ -5,6 +5,7 @@
 
 🧩 Overview
 FreqPose is a diffusion-based framework for Pose-Guided Person Image Synthesis (PGPIS) that addresses two long-standing challenges:
+
 1.High-frequency texture loss (e.g., hair, fabric wrinkles) during pose transfer.
 
 2.Semantic inconsistency between the source appearance and target pose.
@@ -44,7 +45,7 @@ Integrates MLGFN and GSPAM seamlessly for joint optimization of texture fidelity
 </p>
 
 <p align="center">
-  <img src="docs/visual_comparison.png" width="800">
+  <img src="docs/visual_comparison.png" >
   <br>
   <em>Comparison with state-of-the-art approaches on the DeepFashion dataset.</em>
 </p>
